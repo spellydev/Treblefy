@@ -23,4 +23,4 @@ These people helped in one way or another, so they should get most of the credit
 
 KelvinCrag for "Optimizer"
 
-Farsdev for some of the commands used in the module.
+@farsxdev for some of the commands used in the module.
