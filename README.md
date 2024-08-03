@@ -21,6 +21,6 @@ Reboot
 These people helped in one way or another, so they should get most of the credit:
 
 
-KelvinCrag for "Optimizer"
+[KelvinCrag](https://github.com/KelvinCrag) for "Optimizer"
 
 [farsxdev](https://github.com/farsxdev) for some of the commands used in the module.
