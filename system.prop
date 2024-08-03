@@ -1,0 +1,4 @@
+debug.sf.disable_client_composition_cache=1
+debug.renderengine.backend=skiaglthreaded
+debug.hwui.skia_atrace_enabled=false
+ro.surface_flinger.enable_frame_rate_override=false
