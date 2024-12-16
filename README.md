@@ -1,7 +1,7 @@
 # Treblefy
 Treblefy is a Magisk Module which aims to fix lag and other problems on most GSIs.
 
-How to install:
+# How to install:
 
 Go on Magisk
 
